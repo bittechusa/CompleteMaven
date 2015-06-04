@@ -1,0 +1,126 @@
+===============Ticket store for Blufly==========
+
+Introduction:
+
+
+A.Event Listing
+Summary:
+	
+
+	A1:Displaying Event listing
+
+	summary:
+
+	Acceptance Criteria:
+	
+
+
+	A2:Selecting an Event
+
+	summary:
+
+	Acceptance criteria
+
+	A3:
+	A4:
+	A5:
+
+
+B:Event Details
+
+Summary:
+
+
+	B1:Event information
+
+	summary
+
+	Acceptance criteria
+
+
+
+	B2:
+	B3:
+	B4:
+
+C:Cart summary:
+Summary:
+
+	C1:Removing Ticket from cart
+
+	summary
+
+	Acceptance criteria
+	C2:Clearing a cart
+
+	summary
+
+	Acceptance criteria
+	C3:
+	C4:
+	C5:
+
+
+
+D:Register/login
+Summary:
+
+
+	D1:Sign in
+
+	summary
+
+	Acceptance 
+	D2:
+	D3:
+	D4:
+
+E:Check Out:
+Summary:
+
+	E1:Cart summary
+
+	summary
+
+	Acceptance criteria
+	E2:
+	E3:
+	E4:
+	E5:
+
+
+F:Confirmation:
+Summary:
+
+
+	F1:Confirm order
+
+	summary
+
+	Acceptance criteria
+	F2:
+	F3:
+	F4:
+	F5:
+
+G:General:
+SUmmary:
+
+	G1:External Link
+
+	summary
+
+	Acceptance criteria
+	G2:
+	G3:
+	G4:
+	G5:
+
+
+
+
+
+
+
+
+
